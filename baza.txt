@@ -1,0 +1,4 @@
+3
+Jerzy Grebosz 200120 3 Rugby Filozofia Informatyka
+Stolnik Horeszko 200121 2 Filozofia Informatyka
+Jacek Soplica 200122 4 Informatyka Filozofia Szachy Miernictwo
