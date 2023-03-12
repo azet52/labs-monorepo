@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">ThingsMonitor</string>
+    <string name="title_charts">Charts</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_settings">Settings</string>
+    <string name="last_record">last record:</string>
+    <string name="example_pressure_data">1023.23</string>
+    <string name="example_temperature_data">16.91</string>
+    <string name="example_humidity_data">32.65</string>
+    <string name="not_available">N/A</string>
+    <string name="unit_celsius">°C</string>
+    <string name="unit_percent">%</string>
+    <string name="unit_pascals">hPa</string>
+    <string name="const_max">max:</string>
+    <string name="const_avg">avg:</string>
+    <string name="const_min">min:</string>
+    <string name="no_channel">Set read key in settings!</string>
+    <string name="field_name">N/A</string>
+    <string name="no_units">   </string>
+
+    <string name="settings_tittle_1">Download</string>
+    <string name="settings_tittle_2">Notification</string>
+
+
+    <string name="read_key">Read API key</string>
+    <string name="channel">Channel</string>
+    <string name="access">Access</string>
+    <string name="default_channel">mandatory</string>
+    <string name="default_read_key">16 characters</string>
+    <string name="rate">Download rate</string>
+    <string name="field">Field</string>
+    <string name="threshold">Threshold</string>
+    <string name="action">Action</string>
+    <string name="range">Preview range</string>
+
+    <string-array name="rates">
+            <item>once per 30 seconds</item>
+            <item>once per 1 minute</item>
+            <item>once per 2 minutes</item>
+            <item>once per 30 minutes</item>
+            <item>once per 1 hour</item>
+    </string-array>
+
+    <string-array name="ranges">
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>12 hour</item>
+        <item>1 day</item>
+    </string-array>
+
+    <string-array name="fields">
+        <item>None</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="actions">
+        <item>None</item>
+        <item>Below</item>
+        <item>Exact</item>
+        <item>Above</item>
+    </string-array>
+
+    <string name="credits">Icons made by Maxim Basinski, Gregor Cresnar, Cursor Creative,
+        Essential Set, Freepik and Kirill Kazachek, Simplelcon from www.flaticon.com\n
+        \nCharts created with MPAndroidCharts by Philipp Jahoda with contributors.</string>
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

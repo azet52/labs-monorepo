@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C0CFAF</color>
+    <color name="darkFont">#212121</color>
+    <color name="lightDarkFont">#C1C1C1</color>
+    <color name="alertBackground">#B71C1C</color>
+    <color name="alertFont">#FFEBEE </color>
+    <color name="colorAccent">#C62828</color>
+
+    <color name="navigation">#C62828</color>
+    <color name="navigation_item">#EF9A9A</color>
+    <color name="navigation_select">#FFEBEE</color>
+
+</resources>
